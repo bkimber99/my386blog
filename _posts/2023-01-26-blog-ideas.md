@@ -17,3 +17,5 @@ I actually chose two books that seam very interesting. The first is "Moral Machi
 ## Main Project?
 
 To be honest, I have not given a lot of thought to the topic of my main class project. Two ideas that come to mind though are something sports releated, which I'm sure many other people choose, or something engine performance related because this is also a hobby/interest of mine.
+
+![Figure](https://raw.githubusercontent.com/bkimber99/my386blog/main/assets/images/2023-01-26-blog-ideas/engine-dyno.jpg)
