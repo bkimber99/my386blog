@@ -3,7 +3,7 @@ layout: post
 title:  "Machines and Morality?"
 author: Bryce Kimber
 description: How to set up a local MySQL database for beginners
-image: /assets/images/2023-03-01-book-review/shaking_hands.png
+image: /assets/images/2023-03-01-book-review/shaking_hands.jpg
 ---
 
 ## "Moral Machines, Teaching Robots Right from Wrong" by Wendell Wallach and Colin Allen

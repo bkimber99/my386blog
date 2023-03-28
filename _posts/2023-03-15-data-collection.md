@@ -3,7 +3,7 @@ layout: post
 title:  "Pay to Win?"
 author: Bryce Kimber
 description: Does a larger budget for sports really mean more wins? This post shows how to collect the data to examine this question for college football.
-image: /assets/images/2023-03-15-data-collection/money.png
+image: /assets/images/2023-03-15-data-collection/money.jpg
 ---
 
 ## Introduction
