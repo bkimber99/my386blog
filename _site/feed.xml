@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/my386blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/my386blog/" rel="alternate" type="text/html" /><updated>2023-02-07T08:01:01-07:00</updated><id>http://localhost:4000/my386blog/feed.xml</id><title type="html">Data Science Process</title><subtitle>This is a blog for my Stat 386 class at Brigham Young University</subtitle><author><name>Bryce Kimber</name></author><entry><title type="html">You NEED a Local Database</title><link href="http://localhost:4000/my386blog/2023/02/06/tutorial.html" rel="alternate" type="text/html" title="You NEED a Local Database" /><published>2023-02-06T00:00:00-07:00</published><updated>2023-02-06T00:00:00-07:00</updated><id>http://localhost:4000/my386blog/2023/02/06/tutorial</id><content type="html" xml:base="http://localhost:4000/my386blog/2023/02/06/tutorial.html">&lt;h2 id=&quot;why&quot;&gt;Why?&lt;/h2&gt;
+&lt;p&gt;Let’s get right to the point.
+Througout the course of education at Brigham Young University I’ve taken a lot of classes that deal with data. Thats what you’d expect when your major is Statistics right? But most of the time the data that we use is being provided for us. We don’t need to go through the process of gathering the data before we can start analyzing it. Yes, in bigger companies that would be a DBA’s job and we wouldn’t need to worry about it. However, I’ve found in my short professional career that you are much more valuable when you know how to get the information yourself from a database. Heck, just understanding how it works will will make your life in statistics SO much easier.&lt;/p&gt;
+
+&lt;h2 id=&quot;what&quot;&gt;What?&lt;/h2&gt;
+
+&lt;h2 id=&quot;how&quot;&gt;How?&lt;/h2&gt;</content><author><name>Bryce Kimber</name></author><summary type="html">Why? Let’s get right to the point. Througout the course of education at Brigham Young University I’ve taken a lot of classes that deal with data. Thats what you’d expect when your major is Statistics right? But most of the time the data that we use is being provided for us. We don’t need to go through the process of gathering the data before we can start analyzing it. Yes, in bigger companies that would be a DBA’s job and we wouldn’t need to worry about it. However, I’ve found in my short professional career that you are much more valuable when you know how to get the information yourself from a database. Heck, just understanding how it works will will make your life in statistics SO much easier.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/my386blog/assets/images/2023-02-06-tutorial/mysql-logoround.png" /><media:content medium="image" url="http://localhost:4000/my386blog/assets/images/2023-02-06-tutorial/mysql-logoround.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">My Big Ideas</title><link href="http://localhost:4000/my386blog/2023/01/26/blog-ideas.html" rel="alternate" type="text/html" title="My Big Ideas" /><published>2023-01-26T00:00:00-07:00</published><updated>2023-01-26T00:00:00-07:00</updated><id>http://localhost:4000/my386blog/2023/01/26/blog-ideas</id><content type="html" xml:base="http://localhost:4000/my386blog/2023/01/26/blog-ideas.html">&lt;h2 id=&quot;my-tutorial-post&quot;&gt;My Tutorial Post&lt;/h2&gt;
+
+&lt;p&gt;For my tutorial post I think I will do a “how-to” on creating a local mysql database on a personal computer. This can be very helpful for learning how to interact with a database. In data science (which is my major emphasis) it is necessary to know to query, add, and manipulate data within a database.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-book-i-chose-to-read&quot;&gt;The Book I Chose to Read&lt;/h2&gt;
+
+&lt;p&gt;I actually chose two books that seem very interesting. The first is “Moral Machines: Teaching Robots Right from Wrong” by Colin Allen, and the second is “The Ethical Algorithm: The Science of Socially Aware Algorithm Design” by Aaron Roth. These both appealed to me because AI and machine learning are topics that intrigue me.&lt;/p&gt;
+
+&lt;h2 id=&quot;main-project&quot;&gt;Main Project?&lt;/h2&gt;
+
+&lt;p&gt;To be honest, I have not given a lot of thought to the topic of my main class project. Two ideas that come to mind though are something sports releated, which I’m sure many other people choose, or something engine performance related because this is also a hobby/interest of mine.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/bkimber99/my386blog/main/assets/images/2023-01-26-blog-ideas/engine-dyno.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;</content><author><name>Bryce Kimber</name></author><summary type="html">My Tutorial Post</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/my386blog/assets/images/2023-01-26-blog-ideas/big_ideas.jpg" /><media:content medium="image" url="http://localhost:4000/my386blog/assets/images/2023-01-26-blog-ideas/big_ideas.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to create a blog post</title><link href="http://localhost:4000/my386blog/2022/08/01/sample-post.html" rel="alternate" type="text/html" title="How to create a blog post" /><published>2022-08-01T00:00:00-06:00</published><updated>2022-08-01T00:00:00-06:00</updated><id>http://localhost:4000/my386blog/2022/08/01/sample-post</id><content type="html" xml:base="http://localhost:4000/my386blog/2022/08/01/sample-post.html">&lt;h2 id=&quot;steps-for-creating-a-new-post&quot;&gt;Steps for creating a new post.&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a new file in the “_posts” folder called ‘YYYY-MM-DD-post-name.md’, where YYYY is the year (2023), MM numeric month (01-12), and DD is the numeric day of the month (01-31).  The “post-name” is a short name for the new post with - between words.  &lt;strong&gt;You must use this name convention for all new posts.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Make the YML heading.  All pages in the site need to start with a YML heading.  For posts you should use
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout: post
+title:  &quot;Post Name&quot;
+author: Your name
+description: Short yet informative description
+image: /assets/images/blog-image.jpg
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;Note that the layout should stay as “post”, but all the other fields you need to update with the information for your particular blog post.  The blog image should be a .jpg or .png file that you should add to the folder “assets/images”.  Don’t make it too large or the page will take longer to load (500-800 KB is a good size).  The file path should be okay to leave as “/assets/images/” in the header area.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Write the body of the blog using markdown.  For more information about writing with markdown, see the following
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Mastering Markdown&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/cheat-sheet/&quot;&gt;Markdown Guide&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.github.com/gfm/&quot;&gt;GitHub Flavored Markdown Spec&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;adding-images&quot;&gt;Adding Images&lt;/h2&gt;
+&lt;p&gt;Images for the blog will generally but put into the ‘assets/images’ folder.  You can aslo create a subfolder for each blog post if you’d like to keep your figures organized.  &lt;strong&gt;I’ve found that in the body of the post, it works better to use a url pointing to the figure’s location.&lt;/strong&gt;  In order to find the appropriate url, navigate to the figure in the repository and find the “download” url.  The correct url will typically have the work “raw” either at the beginning or as &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/raw/&lt;/code&gt; in the middle somewhere. For example:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![Figure](https://raw.githubusercontent.com/esnt/my386blog/main/assets/images/default.jpg)
+
+OR
+
+![Figure](https://github.com/esnt/my386blog/raw/main/assets/images/default.jpg)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/esnt/my386blog/main/assets/images/default.jpg&quot; alt=&quot;Figure&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;resizing-images&quot;&gt;Resizing images&lt;/h3&gt;
+
+&lt;p&gt;There isn’t a good way to resize images with markdown, so if you need to resize an image, use the html code to insert your figure (instead of the markdown code):&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img src=&quot;https://raw.githubusercontent.com/esnt/my386blog/main/assets/images/default.jpg&quot; alt=&quot;&quot; style=&quot;width:400px;&quot;/&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;(Width is 400 pixels)
+&lt;img src=&quot;https://raw.githubusercontent.com/esnt/my386blog/main/assets/images/default.jpg&quot; alt=&quot;&quot; style=&quot;width:400px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img src=&quot;https://raw.githubusercontent.com/esnt/my386blog/main/assets/images/default.jpg&quot; alt=&quot;&quot; style=&quot;width:100px;&quot;/&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;(Width is 100 pixels)
+&lt;img src=&quot;https://raw.githubusercontent.com/esnt/my386blog/main/assets/images/default.jpg&quot; alt=&quot;&quot; style=&quot;width:100px;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h2&gt;
+
+&lt;p&gt;Here are some things to keep in mind if your blog appearance isn’t going as you planned:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem:  The blog post that I created isn’t appearing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Possible Solutions:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Check your date. GitHub pages won’t display blog posts with future dates&lt;/li&gt;
+  &lt;li&gt;Check the yaml header.  If there are any special characters in any of the fields, you need to use quotes around the entire field entry.  The most common culprit is the description.  If you’re having trouble, try putting quotes around the entire description&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem:  I know that I made changes to a blog post but the changes aren’t appearing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Possible Solution:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Check the header.  If there are any special characters in any of the fields, you need to use quotes around the entire field entry.  The most common culprit is the description.  If you’re having trouble, try putting quotes around the entire description.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem:  My entire blog has wierd formatting&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Possible Solution:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Usually this is an address problem.  Double check your url and baseurl in the _config file&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Shannon Tass</name></author><summary type="html">Steps for creating a new post.</summary></entry></feed>
