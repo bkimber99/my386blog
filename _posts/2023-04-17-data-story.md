@@ -3,7 +3,7 @@ layout: post
 title:  "Pay 2 Win: Does Money Talk?"
 author: Bryce Kimber
 description: Does money in college football really equate to more wins?
-image: /assets/images/2023-04-17-eda/banner.jpg
+image: /assets/images/2023-04-17-data-story/banner.jpg
 ---
 
 ## Introduction
